@@ -88,5 +88,3 @@ The predictive model provides SAR with a **reliable tool** to flag potentially c
 
 ---
 
-## 📂 Repository Structure
-
